@@ -1,6 +1,5 @@
 import sqlite3
 import traceback
-from logging.config import valid_ident
 
 import pandas as pd
 
